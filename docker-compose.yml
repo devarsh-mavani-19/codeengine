@@ -1,0 +1,7 @@
+version: '3.9'
+services:
+  cee:
+    build: .
+    env_file:
+      - .env
+    image: devarshmavani/codeengine:latest
