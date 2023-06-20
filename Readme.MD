@@ -1,4 +1,4 @@
-<h3 align="center">A high performance & Secured remote code execution engine.</h3>
+<h3 align="center">A Secured remote code execution engine.</h3>
 # About
 <h4>
     This project aims to build a High performance remote code execution engine. It can be used by Universities, Companies, etc. for interviews. The Code Engine provides security measures that can execute untrusted 3rd party code.
