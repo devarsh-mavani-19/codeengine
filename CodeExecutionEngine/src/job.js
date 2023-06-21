@@ -121,10 +121,9 @@ class Job {
 			}
 
 			const proc_call_ori = [
-				"nice",
+				"unshare -n nice",
 				...timeout_call,
 				...prlimit,
-				...nonetwork,
 				"bash",
 				compileScript,
 				...args,
