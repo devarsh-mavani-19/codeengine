@@ -1,7 +1,7 @@
 ### A Secured remote code execution engine
 
 # Architecture
-
+![Architecture](https://raw.githubusercontent.com/devarsh-mavani-19/codeengine/master/CodeEngine.drawio.png)
 
 # About
 
